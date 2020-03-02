@@ -63,11 +63,11 @@
 								</div>
 							</div>
 						</div>
-						<!--
+
 						<ul class="actions">
-							<li><a href="#" class="button special big">Nulla luctus</a></li>
-							<li><a href="#" class="button big">Sed vulputate</a></li>
-						</ul>-->
+							<li><a href="<?=get_home_url()?>/photos/" class="button special big">Accéder à mes photos</a></li>
+													<!--<li><a href="#" class="button big">Sed vulputate</a></li>-->
+						</ul>
 					</div>
 				</section>
 
